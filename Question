@@ -1,0 +1,30 @@
+Reena has 10 books which are orderly numbered as 1, 2, 3, 4,...10 in her school bag. She needs to rearrange those books in such a manner where first book should be 10, second book should be 1, third book should be 9, fourth book should be 2 and so on. That is, it should be rearranged alternately. Write a program to get a sorted array from user and rearrange as first element should be maximum value, second minimum value, third second maximum, fourth second minimum and so on.
+Input Format:
+
+The first line consists of the size of array
+
+Next line consists of the elements of the array
+
+Output Format:
+
+Refer sample output for formatting specifications
+
+Sample Input:
+
+6
+
+2
+
+4
+
+5
+
+7
+
+8
+
+9
+
+Sample Output:
+
+[9, 2, 8, 4, 7, 5]
